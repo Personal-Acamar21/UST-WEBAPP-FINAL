@@ -7,7 +7,7 @@ import CompetitionsSection from '../components/Teams/CompetitionsSection';
 export default function OurTeams() {
   const teams = {
     boys: [
-      { id: "boys-2017", name: "Boys 2017", description: "Elite Development" },
+      { id: "boys-2017", name: "Boys 2017", description: "Cozy Feet" },
       { id: "boys-2016", name: "Boys 2016", description: "Elite Development" },
       { id: "boys-2015", name: "Boys 2015", description: "Elite Development" },
       { id: "boys-2014", name: "Boys 2014", description: "Elite Development" },
