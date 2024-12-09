@@ -19,7 +19,7 @@ export default function OurTeams() {
       { id: "boys-2008", name: "Boys 2008", description: "Elite Development" }
     ],
     girls: [
-      { id: "girls-2017", name: "Girls 2017", description: "Elite Development" },
+      { id: "girls-2017", name: "Girls 2017", description: "Cozy Feet" },
       { id: "girls-2016", name: "Girls 2016", description: "Elite Development" },
       { id: "girls-2015", name: "Girls 2015", description: "Elite Development" },
       { id: "girls-2014", name: "Girls 2014", description: "Elite Development" },
