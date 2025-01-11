@@ -34,7 +34,7 @@ export default function Home() {
   return (
     <>
       <SEO 
-        title="Premier Youth Soccer High Performancr Training"
+        title="Premier Youth Soccer High Performance Training"
         description="Join UST Soccer Academy, where champions are made through dedication, skill, and passion. Professional youth soccer training programs for all ages."
       />
 
