@@ -1,5 +1,5 @@
 ---
-title: "UST FALL INTENSE CLINIC"
+title: "2024 UST FALL INTENSE CLINIC"
 description: "Fall intensive training program for boys and girls born 2017-2008"
 type: "Clinic"
 status: "upcoming"
