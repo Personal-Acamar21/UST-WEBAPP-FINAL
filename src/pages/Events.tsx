@@ -50,7 +50,7 @@ export default function Events() {
 
         {upcomingEvents.length === 0 && (
           <div className="text-center py-12">
-            <p className="text-xl text-gray-600">Stay Tuned, Coming Soon!</p>
+            <p className="text-xl text-gray-600">No upcoming events at the moment</p>
             <p className="text-gray-500">Please check back later or contact us for more information.</p>
           </div>
         )}
