@@ -5,17 +5,40 @@ import { motion } from 'framer-motion';
 import { useTranslation } from 'react-i18next';
 
 const photos = [
-  {
+ {
     src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673b8a9115ee066c37b605ad.png',
     width: 1200,
     height: 800,
-    alt: 'Soccer Training'
+    alt: 'Soccer Training Session',
+    category: 'Training'
+  },
+  {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/67980e6d684643b74cdea07d.png',
+    width: 1200,
+    height: 800,
+    alt: 'Professional Training Session',
+    category: 'Training'
   },
   {
     src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673bd75015ee065bf0b64cad.png',
     width: 1200,
     height: 800,
-    alt: 'Youth Soccer'
+    alt: 'Youth Soccer Match',
+    category: 'Matches'
+  },
+  {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673b8a9115ee066c37b605ad.png',
+    width: 1200,
+    height: 800,
+    alt: 'Team Celebration',
+    category: 'Events'
+  },
+  {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/67981276b67a21abdb08487c.png',
+    width: 1200,
+    height: 800,
+    alt: 'Tournament Action',
+    category: 'Tournaments'
   }
 ];
 
