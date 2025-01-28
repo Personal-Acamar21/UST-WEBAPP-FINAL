@@ -13,6 +13,34 @@ const photos = [
     category: 'Training'
   },
   {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/67981b1e4f0aebeb2d5e554b.jpeg',
+    width: 1200,
+    height: 800,
+    alt: 'Soccer Training Session',
+    category: 'Training'
+  },
+  {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/67980e6d684643b74cdea07d.png',
+    width: 1200,
+    height: 800,
+    alt: 'Professional Training Session',
+    category: 'Training'
+  },
+  {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/67981b1e0afb16688021e714.jpeg',
+    width: 1200,
+    height: 800,
+    alt: 'Soccer Training Session',
+    category: 'Training'
+  },
+  {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/67981b1e0afb16e86d21e711.jpeg',
+    width: 1200,
+    height: 800,
+    alt: 'Professional Training Session',
+    category: 'Training'
+  },
+  {
     src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/673bd75015ee065bf0b64cad.png',
     width: 1200,
     height: 800,
@@ -25,6 +53,41 @@ const photos = [
     height: 800,
     alt: 'Team Celebration',
     category: 'Events'
+  },
+  {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/67981276b67a21abdb08487c.png',
+    width: 1200,
+    height: 800,
+    alt: 'Tournament Action',
+    category: 'Tournaments'
+  },   
+  {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/67981b1e3d15774cc14aabcc.jpeg',
+    width: 1200,
+    height: 800,
+    alt: 'Tournament Action',
+    category: 'Tournaments'
+  },
+  {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/67981b1eb67a214989085715.jpeg',
+    width: 1200,
+    height: 800,
+    alt: 'Tournament Action',
+    category: 'Tournaments'
+  },
+  {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/67981b1ebebf1242b085a570.jpeg',
+    width: 1200,
+    height: 800,
+    alt: 'Tournament Action',
+    category: 'Tournaments'
+  },
+  {
+    src: 'https://storage.googleapis.com/msgsndr/AKZP7FbfcOPsLo93Ayuw/media/67981b1e77cc0e3998a86653.jpeg',
+    width: 1200,
+    height: 800,
+    alt: 'Tournament Action',
+    category: 'Tournaments'
   }
 ];
 
