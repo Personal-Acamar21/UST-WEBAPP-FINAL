@@ -10,7 +10,7 @@ export default function AboutUs() {
         <meta name="description" content="Learn about UST Soccer Academy's mission, values, and commitment to developing young soccer talent." />
       </Helmet>
       <div className="container mx-auto px-4 py-16">
-        <h1 className="text-4xl font-bold mb-8">About UST Soccer Academy</h1>
+        <h1 className="text-4xl font-bold mb-8">About UST Academy</h1>
         <div className="grid md:grid-cols-2 gap-12">
           <div className="space-y-6">
             <p className="text-lg text-gray-700">
